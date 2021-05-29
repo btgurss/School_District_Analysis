@@ -8,14 +8,27 @@ The City realized that data taken from the 9th grade students from Thomas High S
 
 - The district summary changed very little.  There were enough students in other schools to make it difficult for the overall results to change a large amount.  Each category saw the average scores and percents drop slightly after these results were removed.  This indicates the removed scores were generally higher than those in the original set.  The results are shown below.
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
-District Summary Original
-District Summary Replaced
+District Summary Before:
+
+![District-Summary-Module.png](District-Summary-Module.png)
+
+District Summary after removal:
+
+![District-Summary-Challenge.png](District-Summary-Challenge.png)
 
 - The school summary changed very little as well.  The Thomas High School average scores and percents were the only numbers that changed when the data was removed.  This is a good sign as that was the only data that was altered and if other school information did change it would show that the written code was incorrect.  Originally the averages for the Thomas High School dropped significantly as the averages for the school were calculated on the total students and we now had an entire grade of zeros.  Once I redid the code to account for the missing students the averages went back to close to where they were before.  They were not exact, but were close.
 
-School Summary Original
-School Summary Replaced
+School Summary Before Removal:
+
+![School-Summary-Module.png](School-Summary-Module.png)
+
+School Summary After Removal:
+
+![School-Summary-Module.png](School-Summary-Module.png)
+
+Top 5 Schools After Recalculating for only 10th - 12th graders:
+
+![Top5-After_9th-Removed.png](Top5-After_9th-Removed.png)
 
 - As mentioned above, the performance of Thomas High School stayed about the same after the data was removed.  In both instances (with and without the 9th grade data) the school placed 2nd in overall passing percentage.  This percentage only dropped about .4 points and was not enough to move the school into a different placement.
 The replacement of these scores also did almost nothing to any of the following categories
