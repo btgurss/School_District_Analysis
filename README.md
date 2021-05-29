@@ -8,6 +8,7 @@ The City realized that data taken from the 9th grade students from Thomas High S
 
 - The district summary changed very little.  There were enough students in other schools to make it difficult for the overall results to change a large amount.  Each category saw the average scores and percents drop slightly after these results were removed.  This indicates the removed scores were generally higher than those in the original set.  The results are shown below.
 
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 District Summary Original
 District Summary Replaced
 
