@@ -36,6 +36,11 @@ The replacement of these scores also did almost nothing to any of the following 
     - Scores by school size
     - Scores by school type
     - Math and reading scores by grade (There was a small change here as everything stayed the same except for the 9th grade Thomas High School data went from an actual score to NAN.)
+    
+    Example of NaN in data:
+    
+    ![Grade-Level-Math-withNaN.png](Grade-Level-Math-withNaN.png)
+    
 This tells me that my written code is doing its job correctly, as none of these data sets should have been impacted by removing one small portion of data unless that data was far from the mean.
 
 ## Summary
